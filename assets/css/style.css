@@ -170,7 +170,7 @@ padding-top: 130px;
 .name-container {
 text-align: center; 
 padding-top: 90px;
-font-family: "Droid Serif";
+font-family: "Roboto Slab";
 font-size: 100px;
 color: white;
 }
@@ -178,10 +178,10 @@ color: white;
 .desc {
 padding-top: 30px; 
 text-align: center;
-font-family: "Droid Serif";
+font-family: "Roboto Slab";
 font-weight: italic;
 font-size: 30px;
-color: #b50950;
+color: #3d0713;
 }
 
 .title {
@@ -202,4 +202,7 @@ margin: 30px;
 -o-transition: margin 0.5s ease-out; 
 } 
 
-.container-pictures img:hover { margin-top: 2px; }
+.container-pictures img:hover {
+ margin-top: 2px; 
+ }
+ 
