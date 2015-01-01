@@ -75,13 +75,13 @@ float: right;
 
  .slidedown li a {
     display: block;
-    padding: 10px 5px;
+    padding: 10px 2px;
     text-decoration: none;
 	font-family: 'Droid Serif';
     font-weight: bold;
     color: #069;
     border-left: 1px solid #ccc;
-	font-size: 0.15em; 
+	font-size: 5px; 
 	}
 	
  .slidedown li a:hover {
