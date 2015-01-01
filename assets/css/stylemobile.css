@@ -154,7 +154,7 @@ margin-top: 60px;
 background-image:url('cloudsmobile.png');
 background-repeat: no-repeat;
 background-position: center;
-height: auto;
+height: 500px;
 width: 100%;
 margin-bottom: 80px;
 padding: 0;
@@ -168,7 +168,7 @@ margin-right: auto;
 border: 2px solid #010305;
 }
 .container-pictures {
-width: 100%;
+width: 90%;
 padding-top: 130px;
 }
 
@@ -176,7 +176,7 @@ padding-top: 130px;
 text-align: center; 
 padding-top: 30px;
 font-family: "Roboto Slab";
-font-size: 60px;
+font-size: 55px;
 color: white;
 }
 
@@ -185,7 +185,7 @@ padding-top: 30px;
 text-align: center;
 font-family: "Roboto Slab";
 font-weight: italic;
-font-size: 30px;
+font-size: 25px;
 color: #3d0713;
 }
 
