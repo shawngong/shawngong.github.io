@@ -157,6 +157,8 @@ background-position: center;
 height: auto;
 width: 100%;
 margin-bottom: 80px;
+left: 0;
+top: 0;
 }
 
 .img-circle {
