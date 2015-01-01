@@ -22,7 +22,7 @@ margin-bottom: 50px;
 
 h2 {
 text-align: right;
-margin-top: 10px;
+margin-top: 5px;
 font-size: 0.6em;
 font-family: 'Droid Serif';
 color: #fff;
@@ -151,7 +151,7 @@ margin-top: 60px;
 }
 
 .bcg {
-background-image:url('clouds.png');
+background-image:url('cloudsmobile.png');
 background-repeat: no-repeat;
 background-position: center;
 height: auto;
