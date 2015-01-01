@@ -1,0 +1,212 @@
+
+/* RESET */
+* { margin: 0; padding: 0; }
+ul, ol { list-style-type: none; }
+
+ul {
+margin-left: 0;
+}
+
+
+.clearfix {
+clear: both;
+}
+
+.home-header {
+width: 100%;
+padding: 0;
+margin-bottom: 50px;
+}
+
+
+
+h2 {
+text-align: right;
+margin-top: 10px;
+font-size: 0.6em;
+font-family: 'Droid Serif';
+color: #fff;
+text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
+}
+
+
+
+.content-text {
+height: auto;
+margin-bottom: 50px;
+font-family: 'cooper_hewittlight';
+font-size: 12px;
+float: center;
+letter-spacing: 1px;
+line-height: 15px;
+}
+
+.content-container {
+padding: 5px;
+width: 100%;
+float: left;
+height: auto;
+margin-left: 10%;
+}
+
+
+
+.slidedown {
+height: auto; 
+width: 100%;
+float: right;
+padding: 0;
+list-style: none;
+background-color: #f2f2f2;
+border-bottom: 1px solid #ccc;
+position: fixed;
+top: 0;
+left: 0;
+z-index: 9999999;
+}
+
+.slidedown li{
+float: right;
+}
+
+ .slidedown li a {
+    display: block;
+    padding: 10px 5px;
+    text-decoration: none;
+	font-family: 'Droid Serif';
+    font-weight: bold;
+    color: #069;
+    border-left: 1px solid #ccc;
+	font-size: 0.3em; 
+	}
+	
+ .slidedown li a:hover {
+    color: #c00;
+    background-color: #fff; }
+
+.slidedown li:first-child {
+	float: left;
+	display: block;
+	font-family: 'Droid Serif';
+	font-size: 15px;
+	padding: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #069;
+	margin-left: 10%;
+}	
+	
+.heading1 {
+font-family: 'Droid Serif';
+font-size: 12px;
+color: #a01626;
+margin-bottom: 20px;
+padding-top: 15px;
+}
+
+.heading2 {
+font-family: 'Droid Serif';
+font-size: 8px;
+padding-top: 3px;
+color: #069;
+float: right;
+
+}
+.followButton {
+display: inline-block;
+margin: auto;
+padding: 10px;
+}
+
+.followButtonText {
+font-family: fontello;
+text-align: center;
+font-size: 100px;
+}
+
+.title2 {
+font-family: 'cooper_hewittlight';
+font-size: 10px;
+letter-spacing: 1px;
+line-height: 10px;
+text-align: center
+}
+
+.link {
+margin-left: 15px;
+
+}
+
+.content {
+padding: 15px;
+}
+
+.spacer {
+margin-top: 60px;
+
+}
+
+.bcg {
+background-image:url('clouds.png');
+background-repeat: no-repeat;
+background-position: center;
+height: 750px;
+width: 100%;
+margin-bottom: 80px;
+}
+
+.img-circle {
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 2px solid #010305;
+}
+.container-pictures {
+width: 100%;
+padding-top: 130px;
+}
+
+.name-container {
+text-align: center; 
+padding-top: 30px;
+font-family: "Roboto Slab";
+font-size: 60px;
+color: white;
+}
+
+.desc {
+padding-top: 30px; 
+text-align: center;
+font-family: "Roboto Slab";
+font-weight: italic;
+font-size: 30px;
+color: #3d0713;
+}
+
+.title {
+font-family: 'Droid Serif';
+letter-spacing: 1px;
+line-height: 13px;
+font-size: 12px;
+text-align: left;
+padding-top: 10px;
+}
+
+.container-pictures img{ 
+border: 5px solid #ccc; 
+float: left; 
+margin: 30px; 
+-webkit-transition: margin 0.5s ease-out; 
+-moz-transition: margin 0.5s ease-out; 
+-o-transition: margin 0.5s ease-out; 
+} 
+
+.container-pictures img:hover {
+ margin-top: 2px; 
+ }
+
